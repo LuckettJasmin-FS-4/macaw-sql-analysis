@@ -40,6 +40,23 @@ The project uses multiple datasets:
 - Data cleaning (removing duplicates)
 
 ---
+## 📊 Data Visualizations
+
+### Habitat Loss by Country
+![Habitat Loss](chart1.png)
+
+### Conservation Status
+![Conservation](chart2.png)
+
+### Trade Activity
+![Trade](chart3.png)
+
+## 👩‍💻 Author
+Jasmin Luckett  
+Aspiring Web Developer & Data Analyst  
+
+🔗 GitHub: https://github.com/LuckettJasmin-FS-4  
+🔗 LinkedIn: (add your link here if you have one)
 
 ## 📈 Example Query
 
@@ -59,3 +76,4 @@ JOIN habitat_loss h
     ON c.country_id = h.country_id
 LEFT JOIN trade_records t
     ON s.species_id = t.species_id;
+
