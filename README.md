@@ -31,6 +31,16 @@ The project uses multiple datasets:
 - Are endangered species involved in international trade?
 
 ---
+## 📁 Data Sources
+
+This project uses structured CSV datasets including:
+
+- macaw_species.csv  
+- countries.csv  
+- habitat_loss.csv  
+- species_country_range.csv  
+- trade_records.csv
+--- 
 
 ## 🔍 Key SQL Concepts Used
 - INNER JOIN
