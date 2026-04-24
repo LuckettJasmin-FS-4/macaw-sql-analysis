@@ -1,0 +1,4 @@
+trade_id,year,species_id,exporter_country,importer_country,source,purpose,term,quantity
+1,2021,1,Bolivia,Germany,C,BIR,Live,2
+2,2020,2,Bolivia,United States,C,BIR,Live,1
+3,2019,3,Brazil,Canada,C,BIR,Live,4
