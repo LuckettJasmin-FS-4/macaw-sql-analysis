@@ -1,0 +1,4 @@
+range_id,species_id,country_id,habitat_importance
+1,1,1,Critical
+2,2,1,Critical
+3,3,2,Moderate
